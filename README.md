@@ -10,6 +10,7 @@
 ## 프로젝트 기간
 * 2023.1.10 - 2023.2.28
 ## 기술 스택
+- 프론트엔드 : Vue.js, vuetify
 - 백엔드 :  Flask
 - DB : MongoDB
 - Cloud : AWS
